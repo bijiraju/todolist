@@ -1,6 +1,6 @@
 /* Loginpage css */
 #background{
-    background-image: url("/images/todobg.jpg");
+    background-image: url("../images/todobg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
